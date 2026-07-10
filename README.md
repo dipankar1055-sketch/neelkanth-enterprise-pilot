@@ -327,6 +327,20 @@ The pilot edition scales, hardens, and production‑readies the validated concep
 - **#LongewalaDoctrine** – Scale without losing command. Maintain 1:6 governance ratio.  
 - **#GumnamKuheliPrinciple** – Undetected drift is the highest risk. Real‑time drift detection is continuous.
 
+🛡️ **Explore the Neelkanth Enterprise Pilot – Governance-as-Code Operating System**
+
+Interested in **AI Governance, Workforce Governance, Governance-as-Code, Human-in-the-Loop controls, audit readiness, operational resilience, and evidence-driven enterprise architecture?**
+
+🏛️ **Neelkanth Enterprise Pilot – Governance-as-Code Operating System**
+🔗 https://github.com/dipankar1055-sketch/neelkanth-enterprise-pilot
+
+📋 **Enterprise AI Governance & Workforce Governance Diagnostic Survey**
+🔗 https://forms.gle/8HaZtGkaTEjhPmuc9
+
+⭐ If you find the project valuable, please **Star the repository**, **follow the project**, and **share your feedback**. Your participation helps shape the next generation of **accountable AI, resilient workforce governance, and evidence-driven enterprise operations.**
+
+**Governance is not overhead. It is the foundation of trust.** 🛡️🤖📊
+
 ---
 
 ## 📝 License
